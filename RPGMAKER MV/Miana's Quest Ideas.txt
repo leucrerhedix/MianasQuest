@@ -1,0 +1,25 @@
+~Miana's Quest Notes~
+
+-Short Game
+-Quick Progression
+-No real customer playing. The game plats through the way its supposed to. Possible side quests that are optional.
+-Make each character very unique. No common weapons.
+-No grinding needed ever, money or exp.
+-Realistic Dialogue
+-All enemies pose a challenge
+-Battles use strategy: Ailments, weaknesses, strengthes, timing.
+-Recurring Scenario: Someone needs help. Choice of how and if you help them. Seemingly useless, but changes certain characters.
+-Small things to do, people talk about thei lives or the world. Maybe about their towns or country. Maybe they dont like their government, neighbors, brother, boss. Maybe they do!
+-Taxes on shops? Influenced by maybe changing government persons.
+-Weapons tgat effect the power and abilities of certain skills.
+-Equipment that completely changes skills. Weapon or Armor.
+-When all enemies found on a screen have been killed have a notification that announces this and gives a small reward for completion.
+-Weapons increase attack but also can increase miana's mp stealing ability.
+-Use variable based events more often.
+-Leucre learns new skills through boss fights, alone. Trainers in various areas will offer training for the various skills and fight him, while using the new skill. This will require miana and sooth to sit off to the side during the fights. These fights will not end on failure, you will just be backed out and they will state yo arent worthy.
+-Passive skills learned through leveling?
+-Soothsayer class: Summons different beings that effect all enemies, allies or both.
+-Each new summon is a pat she makes with the specific being as it dies. Basically taking control of its being.
+-Some will be forced, many will be hidden side quests.
+-Can only have 3-4 summons at a time. Useing variables or scripts to control.
+-She has no normal attack. When attack is selected she guards instead. she will not fight as herself, only using the summons.
