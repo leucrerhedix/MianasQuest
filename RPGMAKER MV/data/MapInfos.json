@@ -6,5 +6,5 @@ null,
 {"id":4,"expanded":true,"name":"Kloque Isle","order":5,"parentId":0,"scrollX":947.5,"scrollY":1173.5},
 {"id":5,"expanded":true,"name":"Prism Bridge","order":6,"parentId":4,"scrollX":1139,"scrollY":453.5},
 {"id":6,"expanded":false,"name":"Mt. Kloque","order":4,"parentId":3,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":7,"expanded":false,"name":"TestMap","order":7,"parentId":0,"scrollX":646,"scrollY":666.5}
+{"id":7,"expanded":false,"name":"TestMap","order":7,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142}
 ]
