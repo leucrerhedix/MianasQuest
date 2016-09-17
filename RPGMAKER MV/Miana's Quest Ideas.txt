@@ -23,3 +23,4 @@
 -Some will be forced, many will be hidden side quests.
 -Can only have 3-4 summons at a time. Useing variables or scripts to control.
 -She has no normal attack. When attack is selected she guards instead. she will not fight as herself, only using the summons.
+Ass
