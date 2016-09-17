@@ -11,5 +11,7 @@ var $plugins =
 {"name":"Moogle_X_DieAtZeroMp","status":true,"description":"v1.1 Actors or Enemies will automatically die at 0 MP.","parameters":{"All Actors":"0","All Enemies":"0"}},
 {"name":"Jay_Dualtechs","status":true,"description":"Adds functionality for multitech skills.","parameters":{"Cycle Actors":"false","Cycle Length":"60"}},
 {"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}},
-{"name":"GALV_MessageStyles","status":true,"description":"Settings to change how your \"Show Text\" messages look as well as code to make them floating.","parameters":{"Input Indicator":"2,0,-12","Indicator Zoom":"100","Message Padding":"0,0,0,0","Message Windowskin":"Window","Arrow Graphic":"WindowArrow","Windowskin Back Opacity":"192","Y Offset":"60","Font":"","Font Filename":"","Font Outline":"true","Font Size":"28"}}
+{"name":"GALV_MessageStyles","status":true,"description":"Settings to change how your \"Show Text\" messages look as well as code to make them floating.","parameters":{"Input Indicator":"2,0,-12","Indicator Zoom":"100","Message Padding":"0,0,0,0","Message Windowskin":"Window","Arrow Graphic":"WindowArrow","Windowskin Back Opacity":"192","Y Offset":"60","Font":"","Font Filename":"","Font Outline":"true","Font Size":"28"}},
+{"name":"NeMV_OnStepEffect","status":true,"description":"v1.0 Allows your actors' states to perform JavaScript evaluations as you walk on the map.","parameters":{}},
+{"name":"Yami_8DIR","status":true,"description":"","parameters":{}}
 ];
