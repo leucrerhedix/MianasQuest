@@ -2,10 +2,10 @@
 null,
 {"id":1,"expanded":false,"name":"Reust Castle","order":1,"parentId":0,"scrollX":1139,"scrollY":466},
 {"id":2,"expanded":false,"name":"Opening Black","order":2,"parentId":0,"scrollX":1139,"scrollY":466},
-{"id":3,"expanded":true,"name":"Kloque Woods","order":3,"parentId":0,"scrollX":1269,"scrollY":458},
-{"id":4,"expanded":true,"name":"Kloque Isle","order":5,"parentId":0,"scrollX":1131,"scrollY":682},
+{"id":3,"expanded":true,"name":"Kloque Woods","order":3,"parentId":0,"scrollX":1508,"scrollY":621.3333333333334},
+{"id":4,"expanded":false,"name":"Kloque Isle","order":5,"parentId":0,"scrollX":1508,"scrollY":1058.6666666666667},
 {"id":5,"expanded":true,"name":"Prism Bridge","order":6,"parentId":4,"scrollX":1139,"scrollY":466},
-{"id":6,"expanded":false,"name":"Mt. Kloque","order":4,"parentId":3,"scrollX":1139,"scrollY":466},
-{"id":7,"expanded":false,"name":"TestMap","order":8,"parentId":0,"scrollX":620,"scrollY":453.5},
-{"id":8,"expanded":false,"name":"Prism Tower","order":7,"parentId":4,"scrollX":9048,"scrollY":3668}
+{"id":6,"expanded":false,"name":"Mt. Kloque","order":4,"parentId":3,"scrollX":1518.6666666666667,"scrollY":621.3333333333334},
+{"id":7,"expanded":false,"name":"TestMap","order":8,"parentId":0,"scrollX":612,"scrollY":453.5},
+{"id":8,"expanded":false,"name":"Prism Tower","order":7,"parentId":4,"scrollX":9048,"scrollY":3668.5}
 ]
