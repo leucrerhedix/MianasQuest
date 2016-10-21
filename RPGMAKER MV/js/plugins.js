@@ -13,5 +13,6 @@ var $plugins =
 {"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}},
 {"name":"GALV_MessageStyles","status":true,"description":"Settings to change how your \"Show Text\" messages look as well as code to make them floating.","parameters":{"Input Indicator":"2,0,-12","Indicator Zoom":"100","Message Padding":"0,0,0,0","Message Windowskin":"Window","Arrow Graphic":"WindowArrow","Windowskin Back Opacity":"192","Y Offset":"60","Font":"","Font Filename":"","Font Outline":"true","Font Size":"28"}},
 {"name":"NeMV_OnStepEffect","status":true,"description":"v1.0 Allows your actors' states to perform JavaScript evaluations as you walk on the map.","parameters":{}},
-{"name":"Yami_8DIR","status":true,"description":"","parameters":{}}
+{"name":"Yami_8DIR","status":true,"description":"","parameters":{}},
+{"name":"MrTS_PopUp","status":true,"description":"Creates pop ups on item pick ups or custom ones as needed.","parameters":{"Pop Speed":".5","Pop Delay":"60","Pop Fade Out":"100","Pop Font Type":"GameFont","Pop Font Size":"35","Gold Icon":"314","Quantity Sign":"x"}}
 ];
