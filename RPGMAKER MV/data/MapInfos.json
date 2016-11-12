@@ -5,10 +5,10 @@ null,
 {"id":3,"expanded":true,"name":"Kloque Woods","order":3,"parentId":0,"scrollX":1938.8571428571427,"scrollY":798.8571428571428},
 {"id":4,"expanded":false,"name":"Kloque Isle","order":8,"parentId":0,"scrollX":1965.6,"scrollY":1106.3999999999999},
 {"id":5,"expanded":true,"name":"Prism Bridge","order":9,"parentId":4,"scrollX":1965.6,"scrollY":1106.3999999999999},
-{"id":6,"expanded":true,"name":"Mt. Kloque","order":4,"parentId":3,"scrollX":699.3333333333334,"scrollY":660},
+{"id":6,"expanded":true,"name":"Mt. Kloque","order":4,"parentId":3,"scrollX":720.8888888888889,"scrollY":551.1111111111111},
 {"id":7,"expanded":false,"name":"TestMap","order":11,"parentId":0,"scrollX":1965.6,"scrollY":1106.3999999999999},
 {"id":8,"expanded":false,"name":"Prism Tower","order":10,"parentId":4,"scrollX":6434.4,"scrollY":4024.7999999999997},
 {"id":9,"expanded":false,"name":"Mt. Kloque Cave(Matt)","order":5,"parentId":6,"scrollX":1946.3999999999999,"scrollY":1293.6},
-{"id":10,"expanded":false,"name":"Mt. Kloque Cave(Jared)","order":6,"parentId":6,"scrollX":1082,"scrollY":772},
-{"id":11,"expanded":false,"name":"Mt. Kloque North Cave","order":7,"parentId":6,"scrollX":816,"scrollY":1520}
+{"id":10,"expanded":false,"name":"Mt. Kloque Cave(Jared)","order":6,"parentId":6,"scrollX":1965.6,"scrollY":1106.3999999999999},
+{"id":11,"expanded":false,"name":"Mt. Kloque North Cave","order":7,"parentId":6,"scrollX":1965.6,"scrollY":1106.3999999999999}
 ]
