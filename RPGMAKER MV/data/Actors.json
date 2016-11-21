@@ -2,6 +2,6 @@
 null,
 {"id":1,"battlerName":"$leucre","characterIndex":0,"characterName":"Leucre","classId":6,"equips":[6,6,0,7,50],"faceIndex":0,"faceName":"leucre","traits":[],"initialLevel":1,"maxLevel":99,"name":"Leucre","nickname":"The Fortunate","note":"","profile":"For some reason, luck has always been on his side."},
 {"id":2,"battlerName":"Miana","characterIndex":0,"characterName":"Miana","classId":7,"equips":[7,0,0,7,0],"faceIndex":0,"faceName":"Miana","traits":[],"initialLevel":1,"maxLevel":99,"name":"Miana","nickname":"The Princess","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_2","characterIndex":1,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Boopie","nickname":"asd","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
