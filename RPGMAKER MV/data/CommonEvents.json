@@ -49,5 +49,5 @@ null,
 {"id":47,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":48,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":49,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":50,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":50,"list":[{"code":313,"indent":0,"parameters":[0,1,0,45]},{"code":0,"indent":0,"parameters":[]}],"name":"Default Leucre Luck To 50","switchId":1,"trigger":0}
 ]
