@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"Reust Castle","order":1,"parentId":0,"scrollX":1638,"scrollY":922},
 {"id":2,"expanded":false,"name":"Opening Black","order":2,"parentId":0,"scrollX":1228.5,"scrollY":691.5},
-{"id":3,"expanded":true,"name":"Kloque Woods","order":3,"parentId":0,"scrollX":1216.5,"scrollY":691.5},
+{"id":3,"expanded":true,"name":"Kloque Woods","order":3,"parentId":0,"scrollX":2485.090909090909,"scrollY":1016.7272727272727},
 {"id":4,"expanded":false,"name":"Kloque Isle","order":11,"parentId":0,"scrollX":1508,"scrollY":932},
 {"id":5,"expanded":true,"name":"Prism Bridge","order":12,"parentId":4,"scrollX":2278,"scrollY":932},
 {"id":6,"expanded":true,"name":"Mt. Kloque","order":4,"parentId":3,"scrollX":1638,"scrollY":922},
@@ -13,5 +13,5 @@ null,
 {"id":11,"expanded":false,"name":"Mt. Kloque Pass","order":8,"parentId":6,"scrollX":1216.5,"scrollY":1107},
 {"id":12,"expanded":true,"name":"Kloque Ruins Outside","order":9,"parentId":3,"scrollX":1216.5,"scrollY":1228.5},
 {"id":13,"expanded":false,"name":"Mt. Kloque Cave Enclave","order":7,"parentId":10,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":14,"expanded":false,"name":"Kloque Ruins Fl.1","order":10,"parentId":12,"scrollX":1216.5,"scrollY":1078.5}
+{"id":14,"expanded":false,"name":"Kloque Ruins Fl.1","order":10,"parentId":12,"scrollX":2714.4,"scrollY":2481.6}
 ]
